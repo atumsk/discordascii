@@ -1,0 +1,19 @@
+{
+  "name": "discordascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atumsk/discordascii.git"
+  },
+  "author": "Luka Giacco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atumsk/discordascii/issues"
+  },
+  "homepage": "https://github.com/atumsk/discordascii#readme"
+}
