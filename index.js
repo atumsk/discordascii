@@ -23,4 +23,3 @@ client.on('message', function(msg){
 });
 
 client.login(config.token);
-//client.send("!ascii 'DEMO!'");
